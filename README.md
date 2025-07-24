@@ -3,11 +3,11 @@ My GitHub Profile README
 <h1 align="center">Hi 👋, my name is Sunshine 🌞</h1>
 <h3 align="center">A creative strategist using dev tools to advance human consciousness.</h3>
 
-- 🔭 I’m currently working on [LUHUlive](luhu.live)
+ 🚀 I’m currently working on [LUHUlive](luhu.live)
 
-- 🌱 I’m currently learning **through the Scrimba full stack development path.**
+ 🌱 I’m currently learning **through the Scrimba full stack development path.**
 
-- 📫 How to reach me **sunshinekessler@me.com**
+ 📫 How to reach me: **sunshinekessler@me.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
