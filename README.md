@@ -5,7 +5,7 @@ My GitHub Profile README
 
  🚀 I’m currently working on [LUHUlive](luhu.live)
 
- 🌱 I’m currently learning **through the Scrimba full stack development path.**
+ 🧠 I’m currently learning **through the Scrimba full stack development path.**
 
  📫 How to reach me: **sunshinekessler@me.com**
 
